@@ -222,7 +222,7 @@ blend start-containers
 blend-files &
 disown blend-files
 
-Note for immuable systems, you may have to edit blend the executable in /var/usrlocal/bin if it cant find init blend
+Note for immuable systems, you may have to edit the built files if they cant find each other
 
              
 
