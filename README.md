@@ -224,6 +224,8 @@ disown blend-files
 
 Note for immuable systems, you may have to edit the built files if they cant find each other
 
+Namely blend,blend-files service and blend-settings
+
              
 
 
