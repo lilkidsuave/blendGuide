@@ -132,7 +132,9 @@ Once that is done, head over to #Installation
 
 Download the two tar files under releases
 
-Mutable systems install npm from your distros repo
+Install npm from your distros repo
+
+Mutable systems 
 
 Then use npm install electron -g
 
