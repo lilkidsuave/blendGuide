@@ -23,6 +23,15 @@ dependentcies require for both methods
 
 podman 
 
+##NEW SCRIPT
+
+clone this repo
+
+set script to executable in file manager
+
+run as sudo
+sudo ./nonarchinstall.sh
+
 ## Building Manually
 To build manually, you are going to need the following dependentcies
 
