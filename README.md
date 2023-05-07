@@ -23,7 +23,7 @@ dependentcies require for both methods
 
 podman 
 
-##NEW SCRIPT
+## NEW SCRIPT
 
 clone this repo
 
